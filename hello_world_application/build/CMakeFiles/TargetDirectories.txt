@@ -1,3 +1,0 @@
-/home/pingvin/Pingvin/workspace/reports/lab03/hello_world_application/build/CMakeFiles/hello_world.dir
-/home/pingvin/Pingvin/workspace/reports/lab03/hello_world_application/build/CMakeFiles/edit_cache.dir
-/home/pingvin/Pingvin/workspace/reports/lab03/hello_world_application/build/CMakeFiles/rebuild_cache.dir

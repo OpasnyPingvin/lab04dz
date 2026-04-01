@@ -1,3 +1,0 @@
-/home/pingvin/Pingvin/workspace/reports/lab03/formatter_lib/build/CMakeFiles/formatter.dir
-/home/pingvin/Pingvin/workspace/reports/lab03/formatter_lib/build/CMakeFiles/edit_cache.dir
-/home/pingvin/Pingvin/workspace/reports/lab03/formatter_lib/build/CMakeFiles/rebuild_cache.dir
